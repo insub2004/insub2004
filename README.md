@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## ✏️ 소개
 
-현재 백엔드 개발자를 준비중입니다. **소통**과 **기본**을 중요시하는 개발자가 되기 위해서 노력하고 있습니다!
+**소통**과 **기본**을 중요시하는 개발자가 되기 위해서 노력하고 있습니다!
 
 ## 🛠️ 기술 스택
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&style=flat)
@@ -39,5 +39,12 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&style=flat)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white&style=flat)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&style=flat)
+
+## 🗂️ 프로젝트
+
+| 프로젝트명 | 기간 | 참여인원 | 링크 |
+|:-------:|:---:|:------:|:---:|
+| AIoT를 이용한 실시간 환경 모니터링 및 제어 대시보드 | 2024.03.25 ~ 2024.06.07 | 총 8명 | -- |
+| 국내 크로스핏 통합 플랫폼 | 2024.09.30 - Present | 총 2명 | -- |
 
 </div>
