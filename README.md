@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-/H1 Hi!👋 I'm InSub Yoon
+**Hi!👋 I'm InSub Yoon**
