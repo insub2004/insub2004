@@ -17,12 +17,14 @@ Here are some ideas to get you started:
 
 - - -     
 
-<div align=center>
+
       ## ✏️ 소개
    
       현재 백엔드 개발자를 준비중입니다. **소통**과 **기본**을 중요시하는 개발자가 되기 위해서 노력하고 있습니다!   
 
-      ## 🛠️ 기술 스택
+
+<div align=center>
+      <h2>🛠️ 기술 스택</h2>
       <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&style=flat">
       <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white&style=flat">
       <br>
