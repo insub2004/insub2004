@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - - -
 
 ## ✈️소개
-### >소통과 기본을 중요시하는 개발자.
+> 소통과 기본을 중요시하는 개발자.
