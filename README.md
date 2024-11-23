@@ -9,7 +9,7 @@
 
 ![Static Badge](https://img.shields.io/badge/Blog-Tistory-yellow?logo=tistory&logoColor=%23000000&link=https%3A%2F%2Fsub2004.tistory.com%2F)
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Resume-Notion?logo=notion&logoColor=%23000000&link=https%3A%2F%2Ffaithful-acorn-594.notion.site%2F08a1d08a84bb46269ff49a1f9affea1d%3Fpvs%3D4">
+<a href="https://faithful-acorn-594.notion.site/08a1d08a84bb46269ff49a1f9affea1d?pvs=4"><img alt="Static Badge" src="https://img.shields.io/badge/Resume-Notion?logo=notion&logoColor=%23000000"></a>
 
 
 </br>
