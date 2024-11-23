@@ -35,5 +35,5 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <div align=center>
-      <img src="https://img.shields.io/badge/NHNCloud-#3693F3?style=for-the-badge&logo=icloud&logoColor=white"></img>
+      <img alt="Static Badge" src="https://img.shields.io/badge/NHNCloud-%235000FF">
 </div>
