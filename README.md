@@ -12,12 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header)
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=Hi!👋%20I'm%20InSub%20Yoon&fontSize=45&fontColor=000000&desc=안녕하세요!%20현재%20백엔드에%20관심이%20많은%20윤인섭입니다!&descSize=15&descAlignY=76)
+
 
 - - -     
 <div align=center>
-      
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=Hi!👋%20I'm%20InSub%20Yoon&fontSize=45&fontColor=000000&desc=안녕하세요!%20현재%20백엔드에%20관심이%20많은%20윤인섭입니다!&descSize=15&descAlignY=76)
+
 ## ✏️ 소개
 
 현재 백엔드 개발자를 준비중입니다. **소통**과 **기본**을 중요시하는 개발자가 되기 위해서 노력하고 있습니다!
