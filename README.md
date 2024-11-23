@@ -1,11 +1,14 @@
 <div align=center>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=80&section=header)
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=150&section=header&text=Hi!👋%20I'm%20InSub%20Yoon&fontSize=45&fontColor=000000&desc=안녕하세요!%20현재%20백엔드에%20관심이%20많은%20윤인섭입니다!-nl-ㄴㅇㄴㄹ&descSize=15&descAlignY=76)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=150&section=header&text=Hi!👋%20I'm%20InSub%20Yoon&fontSize=45&fontColor=000000&desc=안녕하세요!%20현재%20백엔드에%20관심이%20많은%20윤인섭입니다!&descSize=15&descAlignY=76)
 
 ### ✏️ 소개
 
-**소통**과 **기본**을 중요시하는 개발자가 되기 위해서 노력하고 있습니다!  
+**소통**과 **기본**을 중요시하는 개발자가 되기 위해서 노력하고 있습니다!
+![Static Badge](https://img.shields.io/badge/Blog-Tistory-yellow?logo=tistory&logoColor=%23000000&link=https%3A%2F%2Fsub2004.tistory.com%2F)
+![Static Badge](https://img.shields.io/badge/Resume-Notion?logo=notion&logoColor=%23000000&link=https%3A%2F%2Ffaithful-acorn-594.notion.site%2F08a1d08a84bb46269ff49a1f9affea1d%3Fpvs%3D4)
+
 </br>
 ### 🛠️ 기술 스택
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&style=flat)
