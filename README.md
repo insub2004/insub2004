@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 - - -     
 
-<center>✏️ 소개</center>
-
+<center>## ✏️ 소개</center>
+<br>
 <center>현재 백엔드 개발자를 준비중입니다. **소통**과 **기본**을 중요시하는 개발자가 되기 위해서 노력하고 있습니다!</center>
 
 
