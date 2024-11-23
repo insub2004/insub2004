@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-%20 **Hi!👋 I'm InSub Yoon**
+**Hi!👋 I'm InSub Yoon**
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
