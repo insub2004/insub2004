@@ -8,7 +8,9 @@
 **소통**과 **기본**을 중요시하는 개발자가 되기 위해서 노력하고 있습니다!
 
 ![Static Badge](https://img.shields.io/badge/Blog-Tistory-yellow?logo=tistory&logoColor=%23000000&link=https%3A%2F%2Fsub2004.tistory.com%2F)
-![Static Badge](https://img.shields.io/badge/Resume-Notion?logo=notion&logoColor=%23000000&link=https%3A%2F%2Ffaithful-acorn-594.notion.site%2F08a1d08a84bb46269ff49a1f9affea1d%3Fpvs%3D4)
+
+<img alt="Static Badge" src="https://img.shields.io/badge/Resume-Notion?logo=notion&logoColor=%23000000&link=https%3A%2F%2Ffaithful-acorn-594.notion.site%2F08a1d08a84bb46269ff49a1f9affea1d%3Fpvs%3D4">
+
 
 </br>
 ### 🛠️ 기술 스택
