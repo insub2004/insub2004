@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 
 - - -   
       
-## ✍️ 소개
+## ✍✏️ 소개
    
 현재 백엔드 개발자를 준비중입니다. **소통**과 **기본**을 중요시하는 개발자가 되기 위해서 노력하고 있습니다!  
+
+## 🛠️ 기술 스택
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
