@@ -37,7 +37,7 @@
 |:-------:|:---:|:------:|:---:|
 | AIoT를 이용한 실시간 환경 모니터링 및 제어 대시보드 | 2024.03.25 ~ 2024.06.07 | 총 8명 | <a href="https://github.com/nhnacademy-aiot1-team3"><img alt="Static Badge" src="https://img.shields.io/badge/%EB%B0%94%EB%A1%9C%EA%B0%80%EA%B8%B0-green"></a> |
 | 국내 크로스핏 통합 플랫폼 | 2024.09.30 ~ 진행중 | 총 2명 | -- |
-
+ 
 <br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Finsub2004%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=skyliner.svg&icon_color=%23E7E7E7&title=o_o&edge_flat=false)](https://hits.seeyoufarm.com)
