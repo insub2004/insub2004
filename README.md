@@ -5,7 +5,8 @@
 
 ### ✏️ 소개
 
-**소통**과 **기본**을 중요시하는 개발자가 되기 위해서 노력하고 있습니다!
+안녕하세요!
+<!--**소통**과 **기본**을 중요시하는 개발자가 되기 위해서 노력하고 있습니다!-->
 
 <a href="https://sub2004.tistory.com/"><img alt="Static Badge" src="https://img.shields.io/badge/blog-Tisory-red?logo=tistory&logoColor=%23000000"></a>
 <!--<a href="https://faithful-acorn-594.notion.site/08a1d08a84bb46269ff49a1f9affea1d?pvs=4"><img alt="Static Badge" src="https://img.shields.io/badge/resume-Notion-yellow?logo=notion&logoColor=%23000000"></a>-->
